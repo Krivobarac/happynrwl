@@ -56,7 +56,8 @@
       },
       "configurations": {
         "development": {
-          "buildTarget": "react-app:build:development"
+          "buildTarget": "react-app:build:development",
+          "port": 4300
         },
         "production": {
           "buildTarget": "react-app:build:production",

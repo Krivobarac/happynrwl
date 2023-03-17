@@ -2,7 +2,12 @@
   "name": "happynrwl",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "ng serve": "nx run angular-app:serve",
+    "ng build": "ng build angular-app",
+    "rct serve": "nx run react-app:serve",
+    "rct biild": "ng serve react-app"
+  },
   "private": true,
   "devDependencies": {
     "@angular-devkit/build-angular": "~15.2.0",
