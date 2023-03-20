@@ -1,5 +1,5 @@
 {
-  "name": "@happynrwl/ng-simple-app",
+  "name": "ng-simple-app",
   "version": "0.0.0",
   "peerDependencies": {
     "@angular/common": "^15.2.0",
