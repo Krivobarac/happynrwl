@@ -7,8 +7,8 @@
     "ng build": "ng build angular-app",
     "rct serve": "nx run react-app:serve",
     "rct build": "ng build react-app",
-    "rct-lib build and publish": "npm version minor & nx run rct-simple-lib:build & npm publish"
-    
+    "rct-lib build and publish": "npm version minor & nx run rct-simple-lib:build & npm publish",
+    "ng-lib build and publish": "npm version minor & nx run ng-simple-lib:build & npm publish"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~15.2.0",
