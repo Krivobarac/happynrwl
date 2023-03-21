@@ -1,1 +1,6 @@
-<happynrwl-greeting [title]="title"></happynrwl-greeting>
+<div #marquee class="marquee" [style.gap]="gap + 'px'">
+    <div #marqueeGroup class="marquee__group" [style.gap]="gap + 'px'">
+      <ng-content></ng-content>
+    </div>
+  </div>
+  
