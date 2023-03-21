@@ -1,5 +1,5 @@
-declare namespace JSX {
-    interface IntrinsicElements {
-      [elemName: string]: React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
-    }
-}
+// declare namespace JSX {
+//     interface IntrinsicElements {
+//       [elemName: string]: React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
+//     }
+// }

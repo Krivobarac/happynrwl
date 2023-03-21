@@ -8,7 +8,7 @@ export class App extends Component {
     return (
       <div>
         <div style={{ textAlign: 'center' }}>
-          <happynrwl-greeting title={title} />
+          {/* <happynrwl-greeting title={title} /> */}
           <img
             width="300"
             src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png"

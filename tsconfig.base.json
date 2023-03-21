@@ -17,7 +17,7 @@
     "paths": {
       "@happynrwl/ng-simple-lib": ["libs/ng-simple-lib/src/index.ts"],
       "@happynrwl/rct-simple-lib": ["libs/rct-simple-lib/src/index.ts"],
-      "@happynrwl/ui": ["libs/ui/src/index.ts"]
+      "@happynrwl/ui-lib": ["libs/ui-lib/src/index.ts"],
     }
   },
   "exclude": ["node_modules", "tmp"]

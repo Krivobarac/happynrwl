@@ -4,9 +4,10 @@
   "license": "MIT",
   "scripts": {
     "ng serve": "nx run angular-app:serve",
-    "ng build": "ng build angular-app",
+    "ng build": "nx run angular-app:build",
     "rct serve": "nx run react-app:serve",
-    "rct build": "ng build react-app",
+    "rct build": "nx run react-app:build",
+    "ui build": "nx run ui:build",
     "rct-lib build and publish": "npm version minor & nx run rct-simple-lib:build & npm publish"
   },
   "devDependencies": {

@@ -1,4 +1,4 @@
-import '@happynrwl/ui';
+import 'ui-app';
 
 import { Component, Input } from '@angular/core';
 
