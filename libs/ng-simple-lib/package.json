@@ -2,7 +2,7 @@
   "name": "ng-simple-app",
   "version": "0.0.0",
   "scripts": {
-    "ng-lib build and publish": "npm version minor & nx run ng-simple-lib:build & npm publish ng-simple-lib"
+    "ng-lib build and publish": "npm version minor & nx run @happynrwl/ng-simple-lib:build & npm publish @happynrwl/ng-simple-lib"
   },
   "peerDependencies": {
     "@angular/common": "^15.2.0",
